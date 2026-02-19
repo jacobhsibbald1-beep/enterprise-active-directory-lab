@@ -1,9 +1,11 @@
 # Enterprise Active Directory Lab
 
 # Overview
-This project documents the design of a Windows Server 2022 Active Directory environment built in VirtualBox to simulate a real-world MSP / enterprise infrastructure.
+I built this Active Directory lab to simulate a small business MSP-style environment using Windows Server 2022 and Windows 10 Pro inside VirtualBox.
 
-The objective was to build a production-style domain environment including DNS, domain join, authentication validation, and structured troubleshooting, not a basic classroom setup.
+The goal was to deploy a working domain controller, configure DNS correctly, join a client machine, validate Kerberos authentication, and troubleshoot real networking issues along the way.
+
+This lab forced me to diagnose problems at multiple layers (network routing, DNS resolution, ARP behaviour, and domain discovery) rather than just following a step-by-step guide.
 
 
  # Lab Architecture
