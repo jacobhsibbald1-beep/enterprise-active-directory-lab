@@ -102,3 +102,23 @@ Each issue was resolved using structured network-layer analysis (L2, L3, DNS, AD
 Jacob Sibbald  
 Diploma of Information Technology  
 Building enterprise-style homelab infrastructure for professional development.
+
+# Screenshots
+
+##AD DS and DNS Roles Installed
+![AD Roles](images/01-ad-dns-roles.png)
+
+# DNS Zone Configuration
+![DNS Zone](images/02-dns-zone.png)
+
+# Active Directory OU Structure
+![OU Structure](images/03-ou-structure.png)
+
+# Client Domain Join Confirmation
+![Domain Join](images/04-domain-joined.png)
+
+# Kerberos Authentication Validation
+![Authentication](images/05-authentication-validation.png)
+
+# SRV Record Validation
+![SRV Validation](images/06-srv-record-validation.png)
